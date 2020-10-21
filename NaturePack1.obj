@@ -1,6 +1,6 @@
 # This file uses centimeters as units for non-parametric coordinates.
 
-mtllib NatureFreePack1.mtl
+mtllib NaturePack1.mtl
 g default
 v -6.217663 0.000134 -4.609126
 v -6.257488 11.579846 -6.707383
